@@ -23,7 +23,7 @@ To develop an **AI model** that learns from historical housing data and predicts
 
 ### 🔢 Formula  
 \[
-P(Class|Features) = \frac{P(Features|Class) \times P(Class)}{P(Features)}
+P(Class|Features) = {P(Features|Class) \times P(Class)}*{P(Features)}
 \]
 
 ---
