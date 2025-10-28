@@ -1,0 +1,11 @@
+Area,Bedrooms,Bathrooms,Stories,Parking,Furnishing,Price_Category
+1200,2,1,1,0,Unfurnished,Low
+1500,3,2,2,1,Semi-Furnished,Medium
+800,1,1,1,0,Unfurnished,Low
+2500,4,3,2,2,Furnished,High
+2000,3,2,2,1,Furnished,High
+1100,2,1,1,1,Semi-Furnished,Medium
+1700,3,2,2,1,Furnished,High
+900,1,1,1,0,Unfurnished,Low
+1400,2,2,2,1,Semi-Furnished,Medium
+1800,3,2,2,1,Furnished,High
