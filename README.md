@@ -103,7 +103,7 @@ It offers a **fast, interpretable, and reliable** method for predicting property
 
 ## 👩‍💻 Author  
 **Project by:** *Amudieshwar A G*  
-**Subject:** *Python for Data Science (AD2311)*  
+**Subject:** *Artificial Intelligence*  
 **Domain:** *AI & Data Science*
 
 ---
